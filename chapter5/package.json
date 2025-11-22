@@ -6,7 +6,8 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "mastra:dev": "mastra dev"
   },
   "dependencies": {
     "@ai-sdk/amazon-bedrock": "^3.0.13",
